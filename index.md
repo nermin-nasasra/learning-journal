@@ -39,13 +39,11 @@
     <img src="OIP.jpg" height="350" width="700"/>
   
     <p>
-     corona beer offered to pay 10
-      million dollars to change to corona virus name to tug beer 
+     Banging your head against a wall for one hour burns 150 calories.
     </p>
 
-    <img src="funfact.jpg" height="300" width="300" />
+    <img src="banging-head-fun-fact.jpg" height="300" width="300" />
 
-    <p>-Ahmad haboukh</p>
 
   </main>
 
