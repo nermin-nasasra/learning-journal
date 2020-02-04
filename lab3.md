@@ -27,4 +27,4 @@ __nermeen_
 
 First Header | Second Header
 ------------ | -------------
-1 | https://github.com/nermin-nasasra/learning-journal/new/master
+1 | https://nermin-nasasra.github.io/learning-journal/lab3
