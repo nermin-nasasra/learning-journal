@@ -26,7 +26,7 @@ __nermeen_
 
 
 
-# | live URL
+       #     | live URL
 ------------ | -------------
 1 | https://github.com/nermin-nasasra/learning-journal/edit/master/git.md  
 
