@@ -1,5 +1,5 @@
 # javaScript
-### hat is a script
+### What is a script
 * A script is a series of instructions that the computer
 can follow in order to achieve a goal.
 * Each time the script runs, it might only use a subset of
