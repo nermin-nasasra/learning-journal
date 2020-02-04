@@ -22,3 +22,5 @@ We look at these three different ways of specifying colors on the next double-pa
 ### color: rgb(100,100,90);} 
 
 ![GitHubLogo](https://www.globalsugarart.com/media/catalog/product/instruction_sheets/colorTheoryTutorial_large.jpg)
+
+done
