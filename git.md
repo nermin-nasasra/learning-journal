@@ -24,7 +24,15 @@ _Nermeen Nasasra _
 
 __nermeen_
 
-|     #   |  repo link |  
-|---------|------------|
-|  1      | https://github.com/nermin-nasasra/learning-journal/edit/master/git.md   
-------------------------
+
+
+# | live URL
+------------ | -------------
+1 | https://github.com/nermin-nasasra/learning-journal/edit/master/git.md  
+
+
+
+
+
+
+
